@@ -1,4 +1,4 @@
 # DVScratch
-DVScratch - Portable Single Deck DVS Low Latency Scratch Solution
+DVScratch - Portable single deck DVS low latency scratch solution
 
 ![DVS](https://raw.githubusercontent.com/thecosmicboy/DVScratch/main/docs/assets/DVScratch.png)
