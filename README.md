@@ -1,0 +1,3 @@
+# DVScratch
+DVScratch - Portable DVS Scratch Solution for Raspberry Pi
+![DVS](https://raw.githubusercontent.com/thecosmicboy/DVScratch/main/docs/assets/DVScratch.png)
