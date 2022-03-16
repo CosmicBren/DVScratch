@@ -1,5 +1,4 @@
 # DVScratch
-DVScratch - Portable DVS Scratch Solution
+DVScratch - Portable Single Deck DVS Low Latency Scratch Solution
 
 ![DVS](https://raw.githubusercontent.com/thecosmicboy/DVScratch/main/docs/assets/DVScratch.png)
-Single deck DVS scratch solution for any turntable built on Raspberry Pi.
